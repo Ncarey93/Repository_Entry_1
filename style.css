@@ -1,0 +1,10 @@
+/*This is how you can comment out lines in css*/
+/*This is where you can change styles like font,color,spacing etc*/
+body 
+{
+    background-image:url(OIG4.jpg);background-color: rgb(4, 58, 4); opacity: 1.0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
